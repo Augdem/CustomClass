@@ -33,8 +33,8 @@ return isPrime; }
 public boolean EvenCheck(int numInput) {
 return isEven;
 }
-// oddcheck takes any not even, not prime values generated to be odd (if you were to call prime check, it could still tell you if a number is
-// odd or even
+// oddcheck takes any not even, not prime values generated to be odd (if you were to call prime check, 
+// it could still tell you if a number is odd or even
 public boolean OddCheck(int numInput) {
 return isOdd;
 }
